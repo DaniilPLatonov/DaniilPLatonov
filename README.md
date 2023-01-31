@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- My Linkendin [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
+ 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Daniil" alt="Typing SVG" /></a> 
 </h1>
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
     I will be happy to answer all your questions! 
     My email : d_platonov@internet.ru
-   
+   My Linkendin [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
     
 
    
