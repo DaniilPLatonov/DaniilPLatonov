@@ -29,7 +29,9 @@ Here are some ideas to get you started:
     ✔️ Moreover, I’m a strong team player with technical and mathematical background, always open to study new technologies!
 
     I will be happy to answer all your questions! 
-    d_platonov@internet.ru
+    My email : d_platonov@internet.ru
+    My Linkendin ![Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
+    
 
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilPlatonov&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
