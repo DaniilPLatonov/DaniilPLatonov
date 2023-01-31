@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
     I will be happy to answer all your questions! 
     My email : d_platonov@internet.ru
-   My Linkendin [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
+   ![image](https://user-images.githubusercontent.com/123215303/215864201-f1549624-7af5-4628-8c73-5b4bcba7c6c9.png)
+ My LinkedIn [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
     
 
    
