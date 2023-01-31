@@ -18,23 +18,23 @@ Here are some ideas to get you started:
 
     ✔️ Java developer with 1 year of experience in software application development. 
 
-T   ✔️Tech stack: Java, Spring, Hibernate
+T   ✔️ Tech stack: Java, Spring, Hibernate
 
-    ✔️Databases: MS SQL Server, MySQL, PostgreSQL, SQLite
+    ✔️ Databases: MS SQL Server, MySQL, PostgreSQL, SQLite
     
-    ✔️Enviroment & Tools: Windows, Intellij IDEA, Ant, Maven, Gradle
+    ✔️ Enviroment & Tools: Windows, Intellij IDEA, Ant, Maven, Gradle
     
-    ✔️Foreign Languages: English Intermediate
+    ✔️ Foreign Languages: English Intermediate
 
-    ✔️Moreover, I’m a strong team player with technical and mathematical background, always open to study new technologies!
+    ✔️ Moreover, I’m a strong team player with technical and mathematical background, always open to study new technologies!
 
     I will be happy to answer all your questions! 
     d_platonov@internet.ru
 
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaPleshko&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilPlatonov&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaPleshko&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilPLatonov&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
