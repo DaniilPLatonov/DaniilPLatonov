@@ -15,6 +15,9 @@ Here are some ideas to get you started:
  
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Hi+there%2C+I'm+Daniil" alt="Typing SVG" /></a> 
 </h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Daniil" alt="Typing SVG" /></a> 
+</h1>
+
 
     ✔️ Java developer with 1 year of experience in software application development. 
 
