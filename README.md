@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
     ✔️ Java developer with 1 year of experience in software application development. 
 
-    ✔️ Tech stack: Java, Spring, Hibernate
+    ✔️ Tech stack: Java, Hibernate
 
     ✔️ Databases: MS SQL Server, MySQL, PostgreSQL, SQLite
     
