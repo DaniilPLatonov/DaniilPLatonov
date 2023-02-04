@@ -34,10 +34,18 @@ Here are some ideas to get you started:
    ⚡ My LinkedIn [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
     
 
-   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniilPlatonov&show_icons=true&include_all_commits=true&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilPlatonov&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilPLatonov&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilPlatonov&theme=dracula)
 
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilPlatonov&theme=dracula)
 
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilPlatonov&theme=dracula)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilPlatonov&theme=dracula)
 
