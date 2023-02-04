@@ -33,9 +33,6 @@ Here are some ideas to get you started:
     My email : d_platonov@internet.ru
    ⚡ My LinkedIn [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
     
-
-(https://www.linkedin.com/in/daniil-platonov-589872263)  
-   ![image](https://user-images.githubusercontent.com/123215303/215864669-e3867c3f-c201-481b-8868-dc124e7117ce.png) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilPlatonov&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilPlatonov&theme=dracula)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilPlatonov&theme=dracula)
 
