@@ -34,18 +34,13 @@ Here are some ideas to get you started:
    ⚡ My LinkedIn [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
     
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilPlatonov&theme=dracula)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilPlatonov&theme=dracula)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilPlatonov&theme=dracula)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilPlatonov&theme=dracula)
 
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaniilPlatonov&theme=dracula)
 
