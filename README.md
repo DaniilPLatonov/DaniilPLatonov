@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
     ✔️ Databases: MS SQL Server, MySQL, PostgreSQL, SQLite
     
-    ✔️ Enviroment & Tools: Windows, Intellij IDEA, Ant, Maven, Gradle
+    ✔️ Enviroment & Tools: Windows, Intellij IDEA, Maven, Gradle
     
     ✔️ Foreign Languages: English Intermediate
 
