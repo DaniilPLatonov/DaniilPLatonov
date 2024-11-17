@@ -17,18 +17,23 @@ Here are some ideas to get you started:
 </h1>
 
 
-    ✔️ Java developer with 1 year of experience in software application development. 
+✔️ Java developer with 1 year of experience in software application development.
 
-    ✔️ Tech stack: Java, Hibernate
+✔️ Tech stack: Java, Java SE, Hibernate, Spring Boot, Spring MVC, Spring Security, MapStruct
 
-    ✔️ Databases: MS SQL Server, MySQL, PostgreSQL, SQLite
-    
-    ✔️ Enviroment & Tools: Windows, Intellij IDEA, Maven, Gradle
-    
-    ✔️ Foreign Languages: English Intermediate
+✔️ Databases: MySQL, PostgreSQL, SQLite
 
-    ✔️ Moreover, I’m a strong team player with technical and mathematical background, always open to study new technologies!
+✔️ Environment & Tools: Windows, Intellij IDEA, Maven, Gradle, Docker, Git, Apache Tomcat, Testcontainers
 
+✔️ Messaging: Kafka
+
+✔️ Development Practices: JUnit, Log4J, REST API, Liquibase, JDBC, SQL (MySQL, PostgreSQL)
+
+✔️ Web Technologies: XML, HTML, CSS
+
+✔️ Foreign Languages: English Intermediate
+
+✔️ Moreover, I’m a strong team player with a technical and mathematical background, always open to studying new technologies!
     I will be happy to answer all your questions! 
     My email : d_platonov@internet.ru
    ⚡ My LinkedIn [Daniil Platonov](https://www.linkedin.com/in/daniil-platonov-589872263)
